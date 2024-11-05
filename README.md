@@ -10,4 +10,6 @@ The file 'sports_data.csv' is the data that is used for the blog post.
 
 The files 'post2plot1.png' and 'post2plot2.png' are generated from the 'data_analytics.ipynb' file and are plots that are used in the blog post.
 
+The file '.gitignore' file contains the file link to my apikey and thus is not shared to ensure security of ethical practices
+
 Feel free to explore and reach out to me with any questions
